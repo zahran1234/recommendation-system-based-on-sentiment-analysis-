@@ -4,47 +4,52 @@ The user enters more than input, and the system will get the file that contains 
 # What did I do?
 1: Collect a dataset with Egyptian language from multiple resources, such as:
 
-
+```
     1.1 Google Maps
    
     1.2 Twitter
    
     1.3 Google Play
 
-
-2: Apply preprocessing.
-
+```
+2: data preprocessing.
 
 3: Apply machine learning models such as:
+```
 
     3.1 SVM
+    3.2 LSVM
    
-    3.2 KNN
+    3.3 KNN
    
-    3.3 Naive Bayes
+    3.4Naive Bayes
    
-    3.4 Decision Tree
+    3.5 Decision Tree
    
-    3.5 Random Forest
+    3.6 Random Forest
    
-    3.7 Logistic Regression
+    3.8 Logistic Regression
+```
 
 
 4: Apply deep learning models such as:
+```
    
     4.1 Forward Neural Network
    
     4.2 CNN
+```
 
 
 5: Apply Sequential models such as:
-
+```
    
     5.1 RNN
    
     5.2 GRU
    
     5.3 LSTM
+```
 
 # Transfer Learning:
 Used Transformers as a pre-trained model called "CAML based on Arabic sentiment analysis."
