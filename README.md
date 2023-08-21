@@ -1,6 +1,8 @@
 # recommendation-system-based-on-sentiment-analysis-
 
-The user enters more than input, and the system will get the file that contains data from twitter and classify it to get the number of positive, negative, and neutral samples for each file. A pie chart represents the percentage of the three classes for each input and recommends the file name with a high ratio between the number of positive and negative samples.
+The user enters more than input, and the system will scrap  reviews from Twitter  according to these reviews the system will recommend 
+how system recommend 
+classify reviews  to get the number of positive, negative, and neutral samples for each file. A pie chart represents the percentage of the three classes for each input and recommends the file name with a high ratio between the number of positive and negative samples.
 # What did I do?
 1: Collect a dataset with Egyptian language from multiple resources, such as:
 
